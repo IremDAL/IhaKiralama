@@ -7,9 +7,10 @@ Django <br>
 PostgreSQL <br>
 Postman
 ### Tanım
-İlk olarak projemde bir yetkilendirme işlemi yaptım. Buradaki amacım ihaların olduğu sayfayı uygulamayı kullanan kullanıcılaarın görmesini engellemkti. Bunu yapma sebebim ise güvenlikten dolayıdır.
+İlk olarak projemde bir yetkilendirme işlemi yaptım. Buradaki amacım ihaların olduğu sayfayı uygulamayı kullanan kullanıcılaarın görmesini engellemekti. Bunu yapma sebebim ise güvenlikten dolayıdır.
+<br><br>
 <img src="https://github.com/IremDAL/IhaKiralama/blob/main/fotograflar/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-01-25%20214744.png" alt="alt text" width="500" height="500">
-
+<br><br>
 Burada username ve password bilgisini doğru giirdiği için sisteme giriş yapabiliyor.
 <img src="https://github.com/IremDAL/IhaKiralama/blob/main/fotograflar/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-01-25%20214822.png" width="400" height="400">
 Hatalı giriş yaptığı için tüm iha bilgilerini içeren sayfaya giriş yapamıyor.
