@@ -9,11 +9,11 @@ Postman
 ### Tanım
 İlk olarak projemde bir yetkilendirme işlemi yaptım. Buradaki amacım ihaların olduğu sayfayı uygulamayı kullanan kullanıcıların görmesini engellemekti. Bunu yapma sebebim ise güvenlikten dolayıdır.
 <br><br>
-<img src="https://github.com/IremDAL/IhaKiralama/blob/main/fotograflar/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-01-25%20214744.png" alt="alt text" width="1200" height="600">
+<img src="https://github.com/IremDAL/IhaKiralama/blob/main/fotograflar/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-01-25%20214744.png" alt="alt text" width="2000" height="600">
 <br><br>
 Burada username ve password bilgisini doğru girdiği için kullanıcı sisteme giriş yapabiliyor.
 <br><br>
-<img src="https://github.com/IremDAL/IhaKiralama/blob/main/fotograflar/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-01-25%20214822.png" alt="alt text" width="1200" height="600">
+<img src="https://github.com/IremDAL/IhaKiralama/blob/main/fotograflar/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-01-25%20214822.png" alt="alt text" width="2000" height="600">
 <br><br>
 Hatalı giriş yaptığı için tüm iha bilgilerini içeren sayfaya kullanıcı giriş yapamıyor.
 <br><br>
