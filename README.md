@@ -1,6 +1,6 @@
 # IhaKiralama
 ### İnsansız Hava Aracı Kiralama Uygulaması 
-## AYSEL İREM NUR DAL
+
 ## Kod için gereksinimler
 Python <br>
 Django <br>
